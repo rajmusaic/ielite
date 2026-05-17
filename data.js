@@ -72,5 +72,11 @@ const songs = [
     artist: "Muhfaad",
     url: "https://raw.githubusercontent.com/rajmusaic/song_x2/main/nateeja.mp3",
     cover: "https://files.catbox.moe/dr4vq4.jpg"
+  },
+{
+    name: "LNF",
+    artist: "Muhfaad",
+    url: "https://raw.githubusercontent.com/rajmusaic/song_x2/main/LNF.mP3",
+    cover: "https://files.catbox.moe/dr4vq4.jpg"
   }
 ];

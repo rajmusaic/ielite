@@ -77,6 +77,6 @@ const songs = [
     name: "LNF",
     artist: "Muhfaad",
     url: "https://raw.githubusercontent.com/rajmusaic/song_x2/main/LNF.mP3",
-    cover: "https://files.catbox.moe/dr4vq4.jpg"
+    cover: "https://files.catbox.moe/vfxxu5.jpg"
   }
 ];

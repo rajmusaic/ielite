@@ -846,8 +846,14 @@ asa        }
 
     <script src="data.js?v=2"></script>
     <script>
-        let idx = parseInt(localStorage.getItem('lastPlayedSongIndex')) || 0;
-        if (idx >= songs.length || idx < 0) idx = 0;
+        let idx = 0;
+try {
+    idx = parseInt(localStorage.getItem('lastPlayedSongIndex')) || 0;
+    if (idx >= songs.length || idx < 0) idx = 0;
+} catch (e) {
+    console.log("LocalStorage disabled hai");
+}
+
         let playing = false;
         let songSelected = false;
         let songLimit = 0, songCount = 0, timeEnd = 0;

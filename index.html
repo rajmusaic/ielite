@@ -4,6 +4,9 @@
 <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate" />
+    <meta http-equiv="Pragma" content="no-cache" />
+    <meta http-equiv="Expires" content="0" />
     <title>Taalko</title>
     <link rel="stylesheet"
         href="https://fonts.googleapis.com/css2?family=Material+Symbols+Rounded:opsz,wght,FILL,GRAD@24,400,1,0" />
@@ -841,7 +844,7 @@ asa        }
         <!-- Artist Tracks Panel is no longer needed since songs are grouped directly on the dashboard -->
     </div>
 
-    <script src="data.js"></script>
+    <script src="data.js?v=2"></script>
     <script>
         let idx = parseInt(localStorage.getItem('lastPlayedSongIndex')) || 0;
         if (idx >= songs.length || idx < 0) idx = 0;

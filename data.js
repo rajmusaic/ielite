@@ -43,7 +43,7 @@ const songs = [
     cover: "https://files.catbox.moe/ttf1io.png"
   },
   {
-    name: "NustaPaisa.",
+    name: "NustaPaisa",
     artist: "MC Stan",
     url: "https://raw.githubusercontent.com/rajmusaic/song_x2/main/nustaPaisa_2x.mp3",
     cover: "https://files.catbox.moe/xpmnui.png"

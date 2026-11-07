@@ -79,3 +79,8 @@ const songs = [
   },
   {
     name: "TRAP AIBA",
+    artist: "Emiway bantai",
+    url: "https://raw.githubusercontent.com/rajmusaic/song_2x/main/TRAP%20AIBA_2x.mp3",
+    cover: "https://files.catbox.moe/axdgru.png"
+  }
+];

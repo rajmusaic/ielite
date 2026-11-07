@@ -1,4 +1,3 @@
-// Babu bro, ye lo fixed code with direct working links!
 const songs = [
   {
     name: "Bul Bul",
@@ -60,32 +59,23 @@ const songs = [
     url: "https://raw.githubusercontent.com/rajmusaic/song_2x/main/Chusamba_x2.mp3",
     cover: "https://files.catbox.moe/hymu7e.png"
   },
-{
+  {
     name: "TFBOL",
     artist: "Emiway bantai",
-    url: "https://raw.githubusercontent.com/rajmusaic/song_2x/main/TFBOL.MP3",
-    cover:
-"https://files.catbox.moe/3ee3wl.jpg"
+    url: "https://raw.githubusercontent.com/rajmusaic/song_2x/main/TFBOL.mp3",
+    cover: "https://files.catbox.moe/3ee3wl.jpg"
   },
-{
+  {
     name: "Nateejay",
     artist: "Muhfaad",
     url: "https://raw.githubusercontent.com/rajmusaic/song_x2/main/nateeja.mp3",
     cover: "https://files.catbox.moe/dr4vq4.jpg"
   },
-{
+  {
     name: "LNF",
     artist: "Muhfaad",
-    url: "https://raw.githubusercontent.com/rajmusaic/song_x2/main/LNF.mP3",
+    url: "https://raw.githubusercontent.com/rajmusaic/song_x2/main/LNF.mp3",
     cover: "https://files.catbox.moe/vfxxu5.jpg"
   },
-{
+  {
     name: "TRAP AIBA",
-    artist: "Emiway bantai",
-    url: "https://raw.githubusercontent.com/rajmusaic/song_2x/main/TRAP%20AIBA_2x.mp3",
-    cover:
-"https://files.catbox.moe/axdgru.png"
-  }
-
-];
-

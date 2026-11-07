@@ -78,6 +78,13 @@ const songs = [
     artist: "Muhfaad",
     url: "https://raw.githubusercontent.com/rajmusaic/song_x2/main/LNF.mP3",
     cover: "https://files.catbox.moe/vfxxu5.jpg"
+  },
+{
+    name: "TRAP AIBA",
+    artist: "Emiway bantai",
+    url: "https://raw.githubusercontent.com/rajmusaic/song_2x/main/TRAP%20AIBA_2x.mp3",
+    cover:
+"https://files.catbox.moe/axdgru.png"
   }
 
 ];
